@@ -42,6 +42,7 @@ I'm learning <br>
  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/BeatifulSoup-59666C?style=flat-square&logo=&logoColor=white"/></a>
  
+ 
 <!-- 웹 관련  -->
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
  
