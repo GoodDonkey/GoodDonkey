@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 <!-- 파이썬 관련 -->
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
@@ -43,3 +43,4 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=&logoColor=white"/></a>
+ -->
